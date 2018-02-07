@@ -1,0 +1,82 @@
+{
+  "icons": [
+    {
+      "src": "icon_96x96.f7a8853b297badc69011ac93d9f88120.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_800x800.163a77c1a9e169915deb93d46e3d6f8a.png",
+      "sizes": "800x800",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_72x72.ae8af4f08d141cd849e704409e14713b.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_600x600.871437ed5c19c452bfb4491992f75f7a.png",
+      "sizes": "600x600",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_48x48.3cbf4ef8f570c2225ee9b09b237798a7.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_400x400.79729929ebd2e4f1cd4a4317f028c89c.png",
+      "sizes": "400x400",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_260x260.2569499cf4fa4e364ff28296d8e347c9.png",
+      "sizes": "260x260",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_24x24.7ef97ef6acbeff12e80363f3b5793715.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.85b711ff0d5daff27e5c161cdd9dc8a0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_1920x1920.63742e42fd36cc71c7d1638482be8747.png",
+      "sizes": "1920x1920",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_172x172.6e8b5a2149f9abada33cd9632baedc12.png",
+      "sizes": "172x172",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_16x16.59ee7055fa050f1995f34347dba38ac4.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_144x144.872363db67fd5efbea090e2c24efae2b.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_1024x1024.c64bff51cc102fd89d495e36bf4588d2.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "name": "NgForage demo and documentation",
+  "short_name": "NgForage",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "NgForage demo and documentation",
+  "background_color": "#ffffff",
+  "theme_color": "#673ab7"
+}
